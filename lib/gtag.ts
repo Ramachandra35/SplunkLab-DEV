@@ -4,7 +4,7 @@ declare global {
   }
 }
 
-export const GA_TRACKING_ID = 'G-WHVVB84Z78' // replace with your ID
+export const GA_TRACKING_ID = 'G-6P2178LSL4' // replace with your ID
 
 // Standard GA event
 export const event = ({ action, params }: {
